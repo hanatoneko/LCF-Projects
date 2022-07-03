@@ -1,8 +1,8 @@
 README
 
-Here's a breakdown of the folders of code, and each folder has its own readme for the files inside:
+Here's a breakdown of the folders of code:
 
-*note the directory addresses for experiment data, cplex location, etc will need to be updated for any files you want to use
+**note the directory addresses for experiment data, cplex location, etc will need to be updated for any files you want to use**
 
 main code: the files in this folder  (i.e. not in a subfolder). They should function, and all files were used in the official paper experiments. 
 
