@@ -2,7 +2,9 @@ README
 
 Here's a breakdown of the folders of code, and each folder has its own readme for the files inside:
 
-main code: the files in this folder  (i.e. not in a subfolder). They should function, and all files were used in the official paper experiments
+*note the directory addresses for experiment data, cplex location, etc will need to be updated for any files you want to use
+
+main code: the files in this folder  (i.e. not in a subfolder). They should function, and all files were used in the official paper experiments. 
 
 early code: mostly experiments or directions I was looking into before finding the paths we end up going with. Most of this code is pretty old and I don't really know what it does, much of it might not work or have errors. Would have deleted but left just in case anyone found the material to have any value.
 
